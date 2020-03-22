@@ -1,0 +1,10 @@
+/Users/vyacheslavdry/projects/mezh/mezh/obj/Debug/netcoreapp3.1/Server.AssemblyInfoInputs.cache
+/Users/vyacheslavdry/projects/mezh/mezh/obj/Debug/netcoreapp3.1/Server.AssemblyInfo.cs
+/Users/vyacheslavdry/projects/mezh/mezh/bin/Debug/netcoreapp3.1/Server.deps.json
+/Users/vyacheslavdry/projects/mezh/mezh/bin/Debug/netcoreapp3.1/Server.runtimeconfig.json
+/Users/vyacheslavdry/projects/mezh/mezh/bin/Debug/netcoreapp3.1/Server.runtimeconfig.dev.json
+/Users/vyacheslavdry/projects/mezh/mezh/bin/Debug/netcoreapp3.1/Server.dll
+/Users/vyacheslavdry/projects/mezh/mezh/bin/Debug/netcoreapp3.1/Server.pdb
+/Users/vyacheslavdry/projects/mezh/mezh/obj/Debug/netcoreapp3.1/Server.dll
+/Users/vyacheslavdry/projects/mezh/mezh/obj/Debug/netcoreapp3.1/Server.pdb
+/Users/vyacheslavdry/projects/mezh/mezh/obj/Debug/netcoreapp3.1/Server.csprojAssemblyReference.cache

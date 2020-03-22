@@ -1,0 +1,9 @@
+/Users/vyacheslavdry/projects/mezh/mezh/bin/Debug/netcoreapp3.1/mezh.deps.json
+/Users/vyacheslavdry/projects/mezh/mezh/bin/Debug/netcoreapp3.1/mezh.runtimeconfig.json
+/Users/vyacheslavdry/projects/mezh/mezh/bin/Debug/netcoreapp3.1/mezh.runtimeconfig.dev.json
+/Users/vyacheslavdry/projects/mezh/mezh/bin/Debug/netcoreapp3.1/mezh.dll
+/Users/vyacheslavdry/projects/mezh/mezh/bin/Debug/netcoreapp3.1/mezh.pdb
+/Users/vyacheslavdry/projects/mezh/mezh/obj/Debug/netcoreapp3.1/mezh.AssemblyInfoInputs.cache
+/Users/vyacheslavdry/projects/mezh/mezh/obj/Debug/netcoreapp3.1/mezh.AssemblyInfo.cs
+/Users/vyacheslavdry/projects/mezh/mezh/obj/Debug/netcoreapp3.1/mezh.dll
+/Users/vyacheslavdry/projects/mezh/mezh/obj/Debug/netcoreapp3.1/mezh.pdb
