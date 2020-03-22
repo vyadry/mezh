@@ -1,20 +1,19 @@
 ﻿<Properties StartupConfiguration="Multiple Projects">
-  <MonoDevelop.Ide.ItemProperties.Client2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Server PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Client PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Client2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mezh/Server.cs">
     <Files>
-      <File FileName="mezh/Server.cs" Line="127" Column="72" />
-      <File FileName="Client/Program.cs" Line="1" Column="1" />
-      <File FileName="Client2/Program.cs" Line="69" Column="35" />
+      <File FileName="mezh/Server.cs" Line="157" Column="1" />
+      <File FileName="Client/Program.cs" Line="86" Column="48" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="mezh" expanded="True" selected="True">
+          <Node name="mezh" expanded="True">
             <Node name="Client" expanded="True" />
-            <Node name="Client2" expanded="True" />
-            <Node name="Server" expanded="True" />
+            <Node name="Server" expanded="True">
+              <Node name="Server.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -30,7 +29,6 @@
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
       <Items>
         <StartupItem ItemId="{1CB82ED6-D684-4AB7-9FA2-77DBAB263FD7}" ItemName="Client" ConfigurationId="Default" />
-        <StartupItem ItemId="{02ED8972-9702-40D1-B69E-86EF6871B56A}" ItemName="Client2" ConfigurationId="Default" />
         <StartupItem ItemId="{37B748F7-E59A-46D6-90B6-7964B4E8FA2C}" ItemName="Server" ConfigurationId="Default" />
       </Items>
     </MultiItemSolutionRunConfiguration>

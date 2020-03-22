@@ -10,23 +10,23 @@ namespace tcp
     class Message
     {
         public string type;
-        public double value;
+        public long value;
         public string id;
-        public Message(string type, double value, string id)
+        public Message(string type, long value, string id)
         {
             this.type = type;
             this.id = id;
             this.value = value;
         }
-         
+
     }
 
     class Result
     {
         public string id;
-        public double value;
+        public long value;
         public string type;
-        public double answer;
+        public long answer;
     }
 
     class Program
@@ -41,21 +41,18 @@ namespace tcp
             Console.WriteLine();
             Console.WriteLine("1. Factorial");
             Console.WriteLine("2. SumOfRow");
-            Console.WriteLine("3. Sqr");
-            Console.WriteLine("4. To2");
-            Console.WriteLine("5. Log");
-            Console.WriteLine("6. GetResult");
+            Console.WriteLine("3. GetResult");
         }
-        static public double GetNumber(string title)
+        static public long GetNumber(string title)
         {
             while (true)
             {
                 Console.WriteLine(title);
 
-                double Num;
+                long Num;
                 string str = Console.ReadLine();
 
-                bool isNum = double.TryParse(str, out Num);
+                bool isNum = long.TryParse(str, out Num);
 
                 if (isNum)
 
@@ -69,35 +66,23 @@ namespace tcp
         }
         static public Message Menu()
         {
-            string myid = "Client1";
+            string myid = "Client2";
             while (true)
             {
                 DisplayMenu();
                 Console.WriteLine();
-                double answer = GetNumber("Select action");
+                long answer = GetNumber("Select action");
                 switch (answer)
                 {
                     case 1:
                         Console.Clear();
-                        double value = GetNumber("Select factorial value:");
+                        long value = GetNumber("Select factorial value:");
                         return new Message("Factorial", value, myid);
                     case 2:
                         Console.Clear();
-                        double value2 = GetNumber("Select SumOfRow value:");
+                        long value2 = GetNumber("Select SumOfRow value:");
                         return new Message("SumOfRow", value2, myid);
                     case 3:
-                        Console.Clear();
-                        double value3 = GetNumber("Select Sqr value:");
-                        return new Message("Sqr", value3, myid);
-                    case 4:
-                        Console.Clear();
-                        double value4 = GetNumber("Select To2 value:");
-                        return new Message("To2", value4, myid);
-                    case 5:
-                        Console.Clear();
-                        double value5 = GetNumber("Select Log value:");
-                        return new Message("Log", value5, myid);
-                    case 6:
                         Console.Clear();
                         return new Message("GetResult", 0, myid);
                     default:
@@ -126,7 +111,7 @@ namespace tcp
                     string json = JsonConvert.SerializeObject(newMessage);
                     byte[] data = Encoding.Unicode.GetBytes(json);
                     socket.Send(data);
- 
+
 
                     // получаем ответ
                     data = new byte[256]; // буфер для ответа

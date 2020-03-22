@@ -1,0 +1,12 @@
+/Users/vyacheslavdry/projects/mezh/Client3/bin/Debug/netcoreapp3.1/Client3.deps.json
+/Users/vyacheslavdry/projects/mezh/Client3/bin/Debug/netcoreapp3.1/Client3.runtimeconfig.json
+/Users/vyacheslavdry/projects/mezh/Client3/bin/Debug/netcoreapp3.1/Client3.runtimeconfig.dev.json
+/Users/vyacheslavdry/projects/mezh/Client3/bin/Debug/netcoreapp3.1/Client3.dll
+/Users/vyacheslavdry/projects/mezh/Client3/bin/Debug/netcoreapp3.1/Client3.pdb
+/Users/vyacheslavdry/projects/mezh/Client3/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/vyacheslavdry/projects/mezh/Client3/obj/Debug/netcoreapp3.1/Client3.csprojAssemblyReference.cache
+/Users/vyacheslavdry/projects/mezh/Client3/obj/Debug/netcoreapp3.1/Client3.AssemblyInfoInputs.cache
+/Users/vyacheslavdry/projects/mezh/Client3/obj/Debug/netcoreapp3.1/Client3.AssemblyInfo.cs
+/Users/vyacheslavdry/projects/mezh/Client3/obj/Debug/netcoreapp3.1/Client3.csproj.CopyComplete
+/Users/vyacheslavdry/projects/mezh/Client3/obj/Debug/netcoreapp3.1/Client3.dll
+/Users/vyacheslavdry/projects/mezh/Client3/obj/Debug/netcoreapp3.1/Client3.pdb
