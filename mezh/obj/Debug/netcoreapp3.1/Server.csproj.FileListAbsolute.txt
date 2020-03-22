@@ -8,3 +8,5 @@
 /Users/vyacheslavdry/projects/mezh/mezh/obj/Debug/netcoreapp3.1/Server.dll
 /Users/vyacheslavdry/projects/mezh/mezh/obj/Debug/netcoreapp3.1/Server.pdb
 /Users/vyacheslavdry/projects/mezh/mezh/obj/Debug/netcoreapp3.1/Server.csprojAssemblyReference.cache
+/Users/vyacheslavdry/projects/mezh/mezh/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/vyacheslavdry/projects/mezh/mezh/obj/Debug/netcoreapp3.1/Server.csproj.CopyComplete

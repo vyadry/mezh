@@ -8,3 +8,5 @@
 /Users/vyacheslavdry/projects/mezh/Client/obj/Debug/netcoreapp3.1/Client.AssemblyInfo.cs
 /Users/vyacheslavdry/projects/mezh/Client/obj/Debug/netcoreapp3.1/Client.dll
 /Users/vyacheslavdry/projects/mezh/Client/obj/Debug/netcoreapp3.1/Client.pdb
+/Users/vyacheslavdry/projects/mezh/Client/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/vyacheslavdry/projects/mezh/Client/obj/Debug/netcoreapp3.1/Client.csproj.CopyComplete
